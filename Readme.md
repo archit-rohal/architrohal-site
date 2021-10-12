@@ -1,1 +1,0 @@
-This is my personal project in the making. I'm learning programming skills.
