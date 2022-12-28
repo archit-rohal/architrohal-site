@@ -4,5 +4,3 @@ So far I've learned a few things about:
 2. Node.js
 3. Repl.it
 4. CHALK library
-
-I've worked on a few CLI apps.
